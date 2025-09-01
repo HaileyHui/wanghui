@@ -12,13 +12,13 @@ main:
     url: /#aboutme
    
   - title: "<i class='fas fa-book'></i> Publications"
-    url: /publications/
+    url: /#publications
     
   - title: "<i class='fas fa-graduation-cap'></i> Educations"
-    url: /educations/
+    url: /#educations
    
   - title: "<i class='fas fa-trophy'></i> Honors and Awards"
-    url: /honors/
+    url: /#honors
         
   # - title: "Blog Posts"
   #   url: /year-archive/
