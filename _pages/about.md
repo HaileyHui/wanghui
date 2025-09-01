@@ -1,3 +1,6 @@
+<style>
+.page__title { display: none; }
+</style>
 ---
 permalink: /
 title: "Hui Wang"
