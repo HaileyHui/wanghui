@@ -17,8 +17,8 @@ main:
   - title: "Educations"
     url: /educations/
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Honors and Awards"
+    url: /honors/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
