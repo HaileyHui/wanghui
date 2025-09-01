@@ -18,17 +18,17 @@ This is the front page of a website that is powered by the [Academic Pages templ
 <!-- Publications 部分 -->
 <section id="publications">
   <h2><i class="fas fa-book"></i> Publications</h2>
-  {% include_relative _pages/publications.md %}
+  {% include_relative _pages/publications.html %}
 </section>
 
 <!-- Educations 部分 -->
 <section id="educations">
   <h2><i class="fas fa-graduation-cap"></i> Educations</h2>
-  {% include_relative _pages/educations.md %}
+  {% include_relative _pages/educations.html %}
 </section>
 
 <!-- Honors and Awards 部分 -->
 <section id="honors-and-awards">
   <h2><i class="fas fa-trophy"></i> Honors and Awards</h2>
-  {% include_relative _pages/honors.md %}
+  {% include_relative _pages/honors.html %}
 </section>
