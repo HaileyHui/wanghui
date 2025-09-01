@@ -38,7 +38,7 @@ redirect_from:
 </section>
 
 <!-- Honors and Awards 部分 -->
-<section id="honors-and-awards">
+<section id="honors">
   <h2>🏆 Honors and Awards</h2>
   {% include_relative honors.html %}
 </section>
