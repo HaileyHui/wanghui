@@ -1,3 +1,11 @@
+---
+permalink: /
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 <!-- About Me 部分 -->
 <section id="aboutme">
   <h2><i class="fas fa-user"></i> About Me</h2>
