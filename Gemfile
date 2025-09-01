@@ -1,13 +1,7 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-group :jekyll_plugins do
-  gem 'jekyll'
-  gem 'jekyll-feed'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-redirect-from'
-  gem 'jemoji'
-  gem 'webrick', '~> 1.8'
-end
+# 使用 GitHub Pages 固定的依赖（包含 Jekyll 和白名单插件集合）
+gem "github-pages", "~> 232", group: :jekyll_plugins
 
-gem 'github-pages'
-gem 'connection_pool', '2.5.0'
+# Ruby 3 本地预览需要
+gem "webrick", "~> 1.8"
