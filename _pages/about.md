@@ -1,6 +1,3 @@
-<style>
-.page__title { display: none; }
-</style>
 ---
 permalink: /
 title: "Hui Wang"
@@ -9,6 +6,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<style>
+/* 隐藏首页的标题区块和多余空白 */
+.page__header,
+.page__title,
+.page__lead,
+.page__meta {
+  display: none;
+  margin: 0;
+  padding: 0;
+}
+</style>
 
 <!-- About Me 部分 -->
 <section id="aboutme">
