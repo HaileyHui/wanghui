@@ -14,8 +14,8 @@ main:
   - title: "<i class='fas fa-book'></i> Publications"
     url: /publications/  
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Educations"
+    url: /educations/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
