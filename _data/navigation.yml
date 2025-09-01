@@ -8,16 +8,16 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "About Me"
-    url: /aboutme/  
-    
+  - title: "<i class='fas fa-user'></i> About Me"
+    url: /aboutme/
+   
   - title: "<i class='fas fa-book'></i> Publications"
-    url: /publications/  
-
-  - title: "Educations"
-    url: /educations/
+    url: /publications/
     
-  - title: "Honors and Awards"
+  - title: "<i class='fas fa-graduation-cap'></i> Educations"
+    url: /educations/
+   
+  - title: "<i class='fas fa-trophy'></i> Honors and Awards"
     url: /honors/
         
   # - title: "Blog Posts"
