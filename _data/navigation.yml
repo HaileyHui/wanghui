@@ -12,6 +12,8 @@ main:
     url: /#aboutme
   - title: "📚 Publications"
     url: /#publications
+  - title: "🛠️ Participated Projects"   # ← 新增这一条
+    url: /#projects               # ← 关键！#projects 就是你 section 的 id
   - title: "🎓 Educations"
     url: /#educations
   - title: "🏆 Honors and Awards"
