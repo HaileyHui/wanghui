@@ -34,7 +34,7 @@ redirect_from:
 <!-- 新增：Projects 部分 -->
 <section id="projects">
   <h2>🛠️ Projects</h2>
-  {% include_relative educations.html %}
+  {% include_relative projects.html %}
 </section>
 
 <!-- Educations 部分 -->
