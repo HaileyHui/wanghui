@@ -31,11 +31,11 @@ redirect_from:
   {% include_relative publications.html %}
 </section>
 
-<!-- 新增：Projects 部分 -->
+/*  <!-- 新增：Projects 部分 -->
 <section id="projects">
   <h2>🛠️ Participated Projects</h2>
   {% include_relative projects.html %}
-</section>
+</section>  */
 
 <!-- Educations 部分 -->
 <section id="educations">
